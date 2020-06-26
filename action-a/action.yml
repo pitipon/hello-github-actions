@@ -8,7 +8,7 @@ inputs:
     required: true
     default: "World"
    
-  runs:
+  run:
     using: "docker"
     image: "Dockerfile"
     
